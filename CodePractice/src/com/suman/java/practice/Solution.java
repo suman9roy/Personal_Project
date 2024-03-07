@@ -16,6 +16,7 @@ public class Solution {
             else
             System.out.println("true");
         }
+        sc.close();
    
  
     }
